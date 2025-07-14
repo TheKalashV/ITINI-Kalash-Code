@@ -1,0 +1,320 @@
+main {
+  padding: 0 15%;
+}
+@media (min-widith: 1400px) {
+  .container {
+    max-width: 1160px;
+  }
+}
+.headerr {
+  background: url(файлы/обои01.jpg) center;
+  color: white;
+}
+header {
+  background: rgb(0, 0, 0);
+  padding: 40px 25px 0px 25px;
+}
+.nav-link {
+  color: white;
+}
+.nav-link:hover {
+  color: rgb(186, 186, 186);
+}
+h1 {
+  padding: 200px 0 25px 0;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 70px;
+  line-height: 160%;
+}
+.header-descr {
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+.btn-danger {
+  font-size: 20px;
+  padding: 15px;
+  background: linear-gradient(to bottom, #2a00c0, #060041);
+  border-color: #060041;
+  font-weight: 400;
+  margin-bottom: 100px;
+}
+.btn-danger:hover {
+  font-size: 20px;
+  padding: 15px;
+  background: linear-gradient(to bottom, #3700ff, #2f2394);
+  border-color: #060041;
+  font-weight: 400;
+  margin-bottom: 100px;
+}
+.logotipo {
+  width: 550px;
+  margin-top: 60px;
+  text-align: center;
+}
+.aboutOne {
+  font-size: 100px;
+  color: #060041;
+  text-align: center;
+}
+.aboutTwo {
+  font-size: 100px;
+  color: #060041;
+  text-align: center;
+}
+.aboutThree {
+  font-size: 100px;
+  color: #060041;
+  text-align: center;
+}
+.aboutFo {
+  font-size: 100px;
+  color: #060041;
+  text-align: center;
+}
+.aboutOneDown {
+  font-size: 15px;
+  color: #3e2af0;
+  text-align: center;
+}
+.aboutTwoDown {
+  font-size: 15px;
+  color: #3e2af0;
+  text-align: center;
+}
+.aboutThreeDown {
+  font-size: 15px;
+  color: #3e2af0;
+  text-align: center;
+}
+.aboutFoDown {
+  font-size: 15px;
+  color: #3e2af0;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+main {
+  margin-top: 100px;
+}
+.blockohio {
+  margin-top: 30px;
+}
+.oooiii {
+  background: linear-gradient(
+    to bottom,
+    rgb(255, 255, 255),
+    rgb(192, 192, 192),
+    rgb(192, 192, 192),
+    rgb(192, 192, 192),
+    rgb(192, 192, 192),
+    rgb(192, 192, 192),
+    rgb(192, 192, 192),
+    rgb(192, 192, 192),
+    rgb(192, 192, 192),
+    rgb(192, 192, 192),
+    rgb(192, 192, 192),
+    rgb(192, 192, 192),
+    rgb(192, 192, 192),
+    rgb(192, 192, 192),
+    rgb(255, 255, 255)
+  );
+}
+.ohio {
+  font-weight: bold;
+  font-size: 25px;
+}
+.ohio2 {
+  font-weight: bold;
+  font-size: 25px;
+}
+.ohio3 {
+  font-weight: bold;
+  font-size: 25px;
+}
+.ohioo {
+  font-size: 15px;
+}
+.ohioo2 {
+  font-size: 15px;
+}
+.ohioo3 {
+  font-size: 15px;
+}
+.oohoi {
+  font-weight: bold;
+  font-size: 50px;
+  margin-top: 35px;
+  text-align: left;
+}
+.putin {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  padding-top: 16px;
+}
+.miniPutin {
+  font-size: 10px;
+  text-align: left;
+}
+.buden {
+  text-decoration: none;
+  color: red;
+}
+.puu {
+  font-weight: bold;
+  font-size: 50px;
+  margin-bottom: 16px;
+  margin-top: 16px;
+  text-align: left;
+}
+.price0 {
+  background: url(файлы/обои03.jpg);
+  border-radius: 10px;
+  border: solid black;
+  padding: 16px;
+  width: 360px;
+  margin-right: 8px;
+  transition: 0.3s;
+}
+.price1 {
+  background: url(файлы/обои03.jpg);
+  border-radius: 10px;
+  border: solid black;
+  padding: 16px;
+  width: 360px;
+  margin-right: 8px;
+  transition: 0.3s;
+}
+.price1:hover {
+  background: url(файлы/обои03.jpg);
+  border-radius: 10px;
+  border: solid rgb(255, 255, 255);
+  padding: 16px;
+  width: 360px;
+  margin-right: 8px;
+  scale: 1.05;
+}
+.price2:hover {
+  background: url(файлы/обои03.jpg);
+  border-radius: 10px;
+  border: solid rgb(255, 255, 255);
+  padding: 16px;
+  width: 360px;
+  margin-right: 8px;
+  scale: 1.05;
+}
+.price0:hover {
+  background: url(файлы/обои03.jpg);
+  border-radius: 10px;
+  border: solid rgb(255, 255, 255);
+  padding: 16px;
+  width: 360px;
+  margin-right: 8px;
+  scale: 1.05;
+}
+.price2 {
+  background: url(файлы/обои03.jpg);
+  border-radius: 10px;
+  border: solid black;
+  padding: 16px;
+  width: 360px;
+  margin-right: 8px;
+  transition: 0.3s;
+}
+.price02 {
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+  margin: 16px;
+}
+.price03 {
+  color: white;
+  font-weight: 600;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 100px;
+}
+.ooole {
+  width: 322px;
+  height: 90px;
+  margin-top: 55px;
+  background: linear-gradient(to bottom, #2a00c0, #060041);
+  border-color: #060041;
+  border-radius: 10px;
+  text-align: center;
+  color: white;
+  font-size: 21px;
+  font-weight: bold;
+}
+.pribox2 {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.pribox3 {
+  position: absolute;
+  left: 1030px;
+  top: 2300px;
+}
+.sub {
+  background: linear-gradient(to bottom, #ffffff, #535353);
+  height: 750px;
+}
+.footter {
+  background: url("файлы/обои03.jpg");
+  width: 100%;
+  height: 350px;
+}
+.final {
+  background: red;
+  height: 20%;
+}
+.final01 {
+  color: white;
+  font-weight: bold;
+  font-size: 35px;
+  margin-top: 150px;
+  margin-right: 800px;
+}
+.final02 {
+  color: white;
+  font-size: 15px;
+  margin-right: 1050px;
+}
+.inputs {
+  display: flex;
+  flex-direction: column;
+  scale: 2.5;
+  width: 15%;
+  margin: 0 50% 0;
+  position: relative;
+  bottom: 25%;
+}
+footer {
+  background: linear-gradient(to bottom, #080024, #1100a8);
+  height: 140px;
+  padding: 40px;
+}
+.fkalash {
+  color: white;
+  font-size: 30px;
+  float: left;
+  padding: 4px;
+}
+.hkalash {
+  padding: 4px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  text-decoration: none;
+  font-size: 35px;
+  padding-left: 70px;
+}
+.okak {
+  font-size: 15px;
+  text-align: left;
+  padding-left: 45px;
+}
