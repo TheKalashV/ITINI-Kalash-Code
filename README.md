@@ -1,2 +1,0 @@
-# ITINI-Kalash-Code
-code
